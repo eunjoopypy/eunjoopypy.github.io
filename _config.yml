@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "한번에 한걸음씩"
+title: "하루에 한걸음"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   산업디자인+광고홍보전공ㅣ데이터&모바일마케터
 
 email: dmswn2473@naver.com
 #blog logo
